@@ -1,0 +1,17 @@
+
+material material WallMat
+{
+	technique
+	{
+		pass
+		{
+
+			texture_unit
+			{
+				texture wall.bmp
+			}
+		}
+
+	}
+
+}

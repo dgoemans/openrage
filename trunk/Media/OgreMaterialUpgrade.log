@@ -1,0 +1,25 @@
+15:52:34: Creating resource group General
+15:52:34: Creating resource group Internal
+15:52:34: Creating resource group Autodetect
+15:52:34: Registering ResourceManager for type Material
+15:52:34: Bad material attribute line: 'receive_shadows on' in material WallMat, unknown command 'receive_shadows'
+15:52:34: Bad material attribute line: 'technique' in material WallMat, unknown command 'technique'
+15:52:34: Bad texture layer attribute line: 'pass' in material WallMat, unknown command 'pass'
+15:52:34: Bad texture layer attribute line: '{' in material WallMat, unknown command '{'
+15:52:34: Bad texture layer attribute line: 'ambient 0.500000 0.500000 0.500000 1.000000' in material WallMat, unknown command 'ambient'
+15:52:34: Bad texture layer attribute line: 'diffuse 0.611765 0.611765 0.611765 1.000000' in material WallMat, unknown command 'diffuse'
+15:52:34: Bad texture layer attribute line: 'specular 0.500000 0.500000 0.500000 1.000000 12.500000' in material WallMat, unknown command 'specular'
+15:52:34: Bad texture layer attribute line: 'emissive 0.000000 0.000000 0.000000 1.000000' in material WallMat, unknown command 'emissive'
+15:52:34: Bad texture layer attribute line: 'texture_unit' in material WallMat, unknown command 'texture_unit'
+15:52:34: Bad texture layer attribute line: '{' in material WallMat, unknown command '{'
+15:52:34: Bad texture layer attribute line: 'filtering trilinear' in material WallMat, unknown command 'filtering'
+15:52:34: MaterialSerializer : writing material DefaultSettings to queue.
+15:52:34: MaterialSerializer : done.
+15:52:34: MaterialSerializer : writing material material WallMat to queue.
+15:52:34: MaterialSerializer : parsing texture layer.
+15:52:34: MaterialSerializer : done.
+15:52:34: MaterialSerializer : writing material } to queue.
+15:52:34: MaterialSerializer : done.
+15:52:34: MaterialSerializer : writing material(s) to material script : Scene.material
+15:52:34: MaterialSerializer : done.
+15:52:34: Unregistering ResourceManager for type Material
