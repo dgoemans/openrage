@@ -1,0 +1,1 @@
+A free car game using Ogre graphics engine and a custom in house physics engine. The game is designed primarily for linux, although there is an attempt to make it windows compatable.
